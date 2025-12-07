@@ -22,6 +22,26 @@ The aim of this project was to deliver key insights around:
 
 ---
 
+## Dashboard & Files
+| File Name                             | Description |
+|----------------------------------------|-------------|
+| **Dashboard.pbix**                     | Interactive Power BI dashboard containing all visuals, insights, and slicers used in the project. |
+| **DataWave_Cleaned_Dataset.xlsx**      | Cleaned dataset after fixing duplicates, inconsistent data types, date formats, and other data quality issues (before clustering and missing value imputation). |
+| **DataWave_Music_SPrint_Dataset.xlsx** | Original raw dataset provided for the IOA Autumn Student Sprint Challenge (uncleaned). |
+| **Imputation and clustering.ipynb**    | Python notebook used for KNN imputation, scaling, encoding, and clustering to enrich the dataset. |
+
+You can download the .pbix file to view the dashboard and interact with it.
+
+For convinience, screenshots of the dashboard are provided below. However, most of the insights have been derived after using filters, slicers and other features within the dashboard.
+
+You can also view a video recording of the complete analysis using the following link: 
+
+<img width="1418" height="803" alt="image" src="https://github.com/user-attachments/assets/15eb4ab9-e9ea-4d46-8c5b-474c38352436" />
+
+<img width="1424" height="799" alt="image" src="https://github.com/user-attachments/assets/c9f28518-27cd-48f3-8b89-7d62d2cd7b31" />
+
+---
+
 ## Data Quality & Cleaning
 
 The raw dataset contained multiple inconsistencies that required extensive cleaning across Excel, Power Query, and Python.
@@ -44,13 +64,6 @@ The raw dataset contained multiple inconsistencies that required extensive clean
 - Created new IDs for users with blank IDs using country + age + gender  
 - Removed duplicates  
 - Exported cleaned file for dashboarding in Power BI  
-
----
-
-## Dashboard & Files
-
-
-The interactive dashboard can be downloaded via the link included on the GitHub page.
 
 ---
 
