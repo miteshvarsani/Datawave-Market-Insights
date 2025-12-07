@@ -29,6 +29,7 @@ The aim of this project was to deliver key insights around:
 | **DataWave_Cleaned_Dataset.xlsx**      | Cleaned dataset after fixing duplicates, inconsistent data types, date formats, and other data quality issues (before clustering and missing value imputation). |
 | **DataWave_Music_SPrint_Dataset.xlsx** | Original raw dataset provided for the IOA Autumn Student Sprint Challenge (uncleaned). |
 | **Imputation and clustering.ipynb**    | Python notebook used for KNN imputation, scaling, encoding, and clustering to enrich the dataset. |
+| **Analysis Summary Slides.pdf**        | Summary insights with screenshots of evidence (after filters and slicers were used from the dashboard) |
 
 You can download the .pbix file to view the dashboard and interact with it.
 
@@ -66,6 +67,8 @@ The raw dataset contained multiple inconsistencies that required extensive clean
 ---
 
 ## 🔍 Key Insights
+
+**NOTE:** Most of the key insights are derived after inspecting the data more closely using slicers and filters. To see evidence of where these insights are derived from, please review the analysis using the attached PDF file. This provides the same info below alongisde screenshots of the visuals from the dashboard.
 
 ### 1. Registrations Trend
 - Overall registrations have been **declining** across most markets.  
