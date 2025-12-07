@@ -34,8 +34,6 @@ You can download the .pbix file to view the dashboard and interact with it.
 
 For convinience, screenshots of the dashboard are provided below. However, most of the insights have been derived after using filters, slicers and other features within the dashboard.
 
-You can also view a video recording of the complete analysis using the following link: 
-
 <img width="1418" height="803" alt="image" src="https://github.com/user-attachments/assets/15eb4ab9-e9ea-4d46-8c5b-474c38352436" />
 
 <img width="1424" height="799" alt="image" src="https://github.com/user-attachments/assets/c9f28518-27cd-48f3-8b89-7d62d2cd7b31" />
