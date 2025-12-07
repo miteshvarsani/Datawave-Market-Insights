@@ -22,7 +22,7 @@ The aim of this project was to deliver key insights around:
 
 ---
 
-## 🧹 Data Quality & Cleaning
+## Data Quality & Cleaning
 
 The raw dataset contained multiple inconsistencies that required extensive cleaning across Excel, Power Query, and Python.
 
